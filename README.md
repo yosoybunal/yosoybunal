@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Berkay,
+# Hi, I’m Berkay 👋 
+
 - 👀 I’m interested in mobile application development.
 - 🌱 I’m currently learning UIKit and SwiftUI.
 
