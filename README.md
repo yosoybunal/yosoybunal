@@ -1,6 +1,6 @@
 # Hi, I’m Berkay 👋 
 
-- 👀 I’m interested in mobile application development.
+- 👀 I'm curious to learn more about mobile application development.
 - 🌱 I’m currently learning UIKit and SwiftUI.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yosoybunal&hide=contribs,issues&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
