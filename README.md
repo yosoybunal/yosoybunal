@@ -1,7 +1,7 @@
 # Hi, I’m Berkay 👋 
 
-- 👀 I'm curious to learn more about mobile application development.
-- 🌱 I’m currently learning UIKit and SwiftUI.
+- 👀 I'm curious to learn more about mobile application development
+- 🚀 On the road to become an iOS Dev
 
 ## My Tech Stack
 
